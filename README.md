@@ -1,1 +1,2 @@
-# this_is_me_trying_part2
+Track 1: Java + Spring Boot for Backend Development
+Track 2: Python for AI/ML
